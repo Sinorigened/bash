@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "Revenge of the $(date +%-d)th!"
+
