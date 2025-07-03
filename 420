@@ -33,7 +33,7 @@ new_year=$(date +'%Y')
 let new_year++
 tput setaf 1; tput bold
 tput cup $lin $((c - 6)); echo HAPPY 4/20
-tput cup $((lin + 1)) $((c - 9)); echo Y mucha WEED en 2020
+tput cup $((lin + 1)) $((c - 9)); echo Y mucha WEED en 2025
 let c++
 k=1
 
